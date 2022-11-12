@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-weeat-staging-160129-authRole",
+      "UnauthRoleArn": "arn:aws:iam::507211258244:role/amplify-weeat-staging-160129-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::507211258244:role/amplify-weeat-staging-160129-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-weeat-staging-160129-deployment",
+      "UnauthRoleName": "amplify-weeat-staging-160129-unauthRole",
+      "StackName": "amplify-weeat-staging-160129",
+      "StackId": "arn:aws:cloudformation:ap-south-1:507211258244:stack/amplify-weeat-staging-160129/b4190670-140e-11ed-84a6-0678cb90345a",
+      "AmplifyAppId": "dlnmaxv8uh7ur"
+    },
+    "categories": {
+      "auth": {
+        "WeEat": {}
+      }
+    }
+  }
+}
